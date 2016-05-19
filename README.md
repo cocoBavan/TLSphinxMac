@@ -1,7 +1,7 @@
 # TLSphinxMac
 The build script to use for mac  
 How to use     
-01. Download PocketSphinx and SphinxBase from http://cmusphinx.sourceforge.net/wiki/download 
+01. Download PocketSphinx and SphinxBase from http://cmusphinx.sourceforge.net/wiki/download   
 02. run ./autogen.sh in them  
 03. run distclean  
 04. Then copy build_mac.sh in both folders and run it.  
