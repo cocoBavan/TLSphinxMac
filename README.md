@@ -13,6 +13,6 @@ How to use
     $ lipo -create "./x86_64/libsphinxbase.a" "./i386/libsphinxbase.a" -output "libsphinxbase.a"  
     $ lipo -create "./x86_64/libsphinxad.a" "./i386/libsphinxad.a" -output "libsphinxad.a"  
 09. Change the Architecture and SDK of the TLSPhinx Build Settings.  
-10. Build the Porject Vola. 
+10. Build the Porject Vola.   
 11. Now manually drag and drop this modified TLSphinx project on to your Project.  
 12. And if you need the default assets, find them in the "share" folder and add them to the project via Build Phases-> Copy Bundle Resources 
