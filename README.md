@@ -1,5 +1,5 @@
 # TLSphinxMac
-The build script to use for mac  
+This is the build script to use when Building TLSphinx framework for mac     
 How to use     
 01. Download PocketSphinx and SphinxBase from http://cmusphinx.sourceforge.net/wiki/download   
 02. run ./autogen.sh in them  
